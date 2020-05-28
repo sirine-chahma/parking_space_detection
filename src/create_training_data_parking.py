@@ -12,7 +12,7 @@ import os
 from PIL import Image
 import cv2
 
-DATADIR = "D:/data/parking"
+DATADIR = "../data/parking"
 
 CATEGORIES = ["busy", "free"]
 IMG_SIZE = 150
